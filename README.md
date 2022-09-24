@@ -3,7 +3,7 @@
 
 Download Additional Files : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-• This repository consists of files required to deploy a Building Car Park Counter With OpenCV on Pycharm IDE 
+• This repository consists of files required to deploy a Lung Disease Predictor With CV
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
